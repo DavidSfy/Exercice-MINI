@@ -300,3 +300,33 @@ p{
     width: 148px;
     margin: 0 auto 30px auto;
   }
+
+  /*---------------FACTS-----------*/
+.facts{
+
+
+}
+.fact{
+  width: 170px;
+  display: inline-block;
+  margin: auto 55px;
+}
+.fact h1{
+  font-family: "Open-sans" sans-serif;
+  font-weight: bold;
+  font-size: 45px;
+  color: #ffffff;
+
+  text-align: center;
+  margin: 0;
+}
+.fact p{
+  font-family: "Open-sans" sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: #ffffff;
+
+  text-align: center;
+  margin-top: -16px;
+
+}
