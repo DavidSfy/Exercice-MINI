@@ -1,0 +1,49 @@
+.all-team{
+  height: 515px;
+  margin-bottom: 165px;
+}
+.team{
+  margin: 0 6.7px;
+  display: inline-block;
+  float: right;
+  width: 270px;
+  height: auto;
+  border: solid 1px black;
+
+}
+.team-icon{
+  padding-top: 30px;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+}
+.team-name{
+  margin-top: 30px;
+
+  text-align: center;
+  font-family: "Open-sans" sans-serif;
+  font-size: 20px;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.team-fonction{
+  font-family: "Open-sans" sans-serif;
+  text-align: center;
+}
+.team-bar{
+  background-color: #cccccc;
+  height: 4px;
+  width: 20px;
+  margin: 14px auto;
+}
+.team-txt{
+  text-align: center;
+  margin-bottom: 25px;
+  padding: 0 19px;
+}
+.team-social{
+  height: 18px;
+  width: 148px;
+  margin: 0 auto 30px auto;
+}
